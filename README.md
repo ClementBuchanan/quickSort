@@ -4,7 +4,7 @@ Review the pseudocode then trace the algorithm by stepping through the process w
 Once you are done with your article, code a working, tested implementation of Quick Sort based on the pseudocode provided.
 
 ## Whiteboard Process
-<!-- Embedded whiteboard image -->
+![whiteboard](assets/Quick%20Sort.png)
 
 ## Approach & Efficiency
 
