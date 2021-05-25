@@ -12,3 +12,19 @@ function quickSort(array, left, right) {
   return array;
 }
 
+function partitionHoare(array, left, right) {
+  const pivot = Math.floor((left + right) / 2);
+
+  while (left <= right) {
+    while (arright[right] > array[pivot]) {
+      right--;
+    }
+    if (left <= right) {
+      [array[left], array[right]] = [array[right], array[left]];
+      left++;
+      right--;
+    }
+  }
+  return left;
+}
+
