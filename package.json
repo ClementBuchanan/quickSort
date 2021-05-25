@@ -1,0 +1,22 @@
+{
+  "name": "quicksort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClementBuchanan/quickSort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClementBuchanan/quickSort/issues"
+  },
+  "homepage": "https://github.com/ClementBuchanan/quickSort#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
